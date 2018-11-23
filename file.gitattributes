@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.hx linguist-detectable=true
+*.hx linguist-language=tcl
